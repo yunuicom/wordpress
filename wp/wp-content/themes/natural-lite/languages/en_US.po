@@ -1,0 +1,448 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Natural Lite\n"
+"POT-Creation-Date: 2016-01-13 15:24-0500\n"
+"PO-Revision-Date: 2016-01-13 15:24-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:20 404.php:41
+msgid "Not Found, Error 404"
+msgstr ""
+
+#: 404.php:21 404.php:42
+msgid "The page you are looking for no longer exists."
+msgstr ""
+
+#: comments.php:12
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:22
+#, php-format
+msgid "One Comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Comments on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:29 comments.php:49
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:30 comments.php:50
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:31 comments.php:51
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:61
+msgid "Comments are closed."
+msgstr ""
+
+#: content/content-author.php:17
+msgid "Website:"
+msgstr ""
+
+#: content/content-author.php:18
+msgid "Link to author page"
+msgstr ""
+
+#: content/content-author.php:23
+msgid "Profile:"
+msgstr ""
+
+#: content/content-author.php:31
+#, php-format
+msgid "Posts by %1$s:"
+msgstr ""
+
+#: content/content-author.php:44
+msgid "No posts by this author."
+msgstr ""
+
+#: content/content-none.php:16
+msgid "No Options Saved"
+msgstr ""
+
+#: content/content-none.php:17
+#, php-format
+msgid ""
+"Please set and save the Theme Options for the home page within the <a href="
+"\"%1$s\">Customizer</a>."
+msgstr ""
+
+#: content/content-none.php:21
+msgid "No Results Found"
+msgstr ""
+
+#: content/content-none.php:22
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content/home-page.php:6 content/home-page.php:19 content/home-post.php:31
+#: content/slider-featured.php:19 content/slider-featured.php:23
+#: loop-archive.php:14 loop-blog.php:19 loop-portfolio.php:36
+#: loop-portfolio.php:40
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: content/home-page.php:19
+msgid "Learn More"
+msgstr ""
+
+#: content/home-post.php:54 content/home-post.php:81 loop-archive.php:9
+#: loop-blog.php:14 loop-post.php:6
+msgid "Posted on"
+msgstr ""
+
+#: content/home-post.php:54 content/home-post.php:81 loop-archive.php:9
+#: loop-blog.php:14 loop-post.php:6
+msgid "F j, Y"
+msgstr ""
+
+#: content/home-post.php:55 content/home-post.php:82
+msgid "Comment"
+msgstr ""
+
+#: content/home-post.php:55 content/home-post.php:82 loop-archive.php:10
+#: loop-blog.php:15 loop-post.php:7
+msgid "1 Comment"
+msgstr ""
+
+#: content/home-post.php:107 functions.php:320
+msgid "&laquo;"
+msgstr ""
+
+#: content/home-post.php:108 functions.php:321
+msgid "&raquo;"
+msgstr ""
+
+#: content/home-post.php:121 loop-blog.php:47
+msgid "No Posts Found"
+msgstr ""
+
+#: content/home-post.php:122 loop-blog.php:48
+msgid ""
+"We're sorry, but no posts have been found. Create a post to be added to this "
+"section, and configure your theme options."
+msgstr ""
+
+#: footer.php:46
+msgid "Copyright"
+msgstr ""
+
+#: footer.php:46
+msgid "Y"
+msgstr ""
+
+#: footer.php:46
+msgid "All Rights Reserved"
+msgstr ""
+
+#: footer.php:47
+msgid "Natural Lite"
+msgstr ""
+
+#: footer.php:47 loop-archive.php:9 loop-blog.php:14 loop-post.php:6
+msgid "by"
+msgstr ""
+
+#: footer.php:47
+msgid "Organic Themes"
+msgstr ""
+
+#: footer.php:47
+msgid "WordPress Hosting"
+msgstr ""
+
+#: footer.php:47
+msgid "RSS Feed"
+msgstr ""
+
+#: functions.php:29
+msgid "Header Menu"
+msgstr ""
+
+#: functions.php:30
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:38
+msgid "Default Custom Header"
+msgstr ""
+
+#: functions.php:81
+#, php-format
+msgid ""
+"Enjoying Natural Lite? <a href=\"%1$s\" target=\"_blank\">Upgrade to the "
+"premium Natural Theme</a> for more options, page templates, shortcodes, "
+"support and additional features."
+msgstr ""
+
+#: functions.php:158
+msgid "Default Sidebar"
+msgstr ""
+
+#: functions.php:166
+msgid "Left Sidebar"
+msgstr ""
+
+#: functions.php:174
+msgid "Footer Widgets"
+msgstr ""
+
+#: functions.php:214
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:214 functions.php:254
+msgid "Edit"
+msgstr ""
+
+#: functions.php:232
+#, php-format
+msgid "%1$s <br/> %2$s <br/>"
+msgstr ""
+
+#: functions.php:238
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: functions.php:247
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:252
+msgid "Reply"
+msgstr ""
+
+#: header.php:78
+msgid "Menu"
+msgstr ""
+
+#: includes/customizer.php:21
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: includes/customizer.php:55 includes/customizer.php:239
+msgid "2 Seconds"
+msgstr ""
+
+#: includes/customizer.php:56 includes/customizer.php:240
+msgid "4 Seconds"
+msgstr ""
+
+#: includes/customizer.php:57 includes/customizer.php:241
+msgid "6 Seconds"
+msgstr ""
+
+#: includes/customizer.php:58 includes/customizer.php:242
+msgid "8 Seconds"
+msgstr ""
+
+#: includes/customizer.php:59 includes/customizer.php:243
+msgid "10 Seconds"
+msgstr ""
+
+#: includes/customizer.php:60 includes/customizer.php:244
+msgid "12 Seconds"
+msgstr ""
+
+#: includes/customizer.php:61 includes/customizer.php:245
+msgid "20 Seconds"
+msgstr ""
+
+#: includes/customizer.php:62 includes/customizer.php:246
+msgid "30 Seconds"
+msgstr ""
+
+#: includes/customizer.php:63 includes/customizer.php:247
+msgid "1 Minute"
+msgstr ""
+
+#: includes/customizer.php:64 includes/customizer.php:248
+msgid "Hold Frame"
+msgstr ""
+
+#: includes/customizer.php:96 includes/customizer.php:185
+msgid "Left Align"
+msgstr ""
+
+#: includes/customizer.php:97 includes/customizer.php:186
+msgid "Center Align"
+msgstr ""
+
+#: includes/customizer.php:98 includes/customizer.php:187
+msgid "Right Align"
+msgstr ""
+
+#: includes/customizer.php:110
+msgid "One Column"
+msgstr ""
+
+#: includes/customizer.php:111
+msgid "Two Columns"
+msgstr ""
+
+#: includes/customizer.php:112
+msgid "Three Columns"
+msgstr ""
+
+#: includes/customizer.php:124 includes/customizer.php:262
+msgid "Fade"
+msgstr ""
+
+#: includes/customizer.php:125 includes/customizer.php:263
+msgid "Slide"
+msgstr ""
+
+#: includes/customizer.php:159
+msgid "Site Identity"
+msgstr ""
+
+#: includes/customizer.php:160
+msgid "Upload a logo image for your header."
+msgstr ""
+
+#: includes/customizer.php:169
+msgid "Logo"
+msgstr ""
+
+#: includes/customizer.php:182
+msgid "Logo & Nav Alignment"
+msgstr ""
+
+#: includes/customizer.php:197
+msgid "Theme Options"
+msgstr ""
+
+#: includes/customizer.php:198
+msgid "Set and save options for the homepage and blog."
+msgstr ""
+
+#: includes/customizer.php:209
+msgid "Featured Slideshow Category"
+msgstr ""
+
+#: includes/customizer.php:222
+msgid "Featured Slideshow Posts Displayed"
+msgstr ""
+
+#: includes/customizer.php:236
+msgid "Slideshow Transition Interval"
+msgstr ""
+
+#: includes/customizer.php:259
+msgid "Transition Style"
+msgstr ""
+
+#: includes/customizer.php:273
+msgid "Featured Page Left"
+msgstr ""
+
+#: includes/customizer.php:286
+msgid "Featured Page Middle"
+msgstr ""
+
+#: includes/customizer.php:299
+msgid "Featured Page Three"
+msgstr ""
+
+#: includes/customizer.php:312
+msgid "Featured News Category"
+msgstr ""
+
+#: includes/customizer.php:325
+msgid "Featured News Posts Displayed"
+msgstr ""
+
+#: includes/customizer.php:338
+msgid "Blog Template Category"
+msgstr ""
+
+#: loop-archive.php:10 loop-blog.php:15 loop-post.php:7
+msgid "Leave a Comment"
+msgstr ""
+
+#: loop-archive.php:22 loop-post.php:32
+msgid "Category:"
+msgstr ""
+
+#: loop-archive.php:22 loop-post.php:32
+msgid ", "
+msgstr ""
+
+#: loop-archive.php:22 loop-post.php:32
+msgid "Tags:"
+msgstr ""
+
+#: loop-archive.php:42 loop-page.php:25 loop-portfolio.php:63 loop-post.php:49
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: loop-blog.php:24 loop-page.php:5
+msgid "Read More"
+msgstr ""
+
+#: loop-page.php:8 loop-post.php:17
+msgid "Pages:"
+msgstr ""
+
+#: loop-page.php:13 loop-post.php:22
+msgid "Next"
+msgstr ""
+
+#: loop-page.php:14 loop-post.php:23
+msgid "Previous"
+msgstr ""
+
+#: loop-page.php:21 loop-post.php:28
+msgid "(Edit)"
+msgstr ""
+
+#: searchform.php:12
+msgid "Search"
+msgstr ""
+
+#: searchform.php:13
+msgid "Search Here &hellip;"
+msgstr ""
+
+#: searchform.php:14
+msgid "Go"
+msgstr ""
+
+#: template-archive.php:35
+msgid "By Page:"
+msgstr ""
+
+#: template-archive.php:40
+msgid "By Post:"
+msgstr ""
+
+#: template-archive.php:45
+msgid "By Month:"
+msgstr ""
+
+#: template-archive.php:48
+msgid "By Category:"
+msgstr ""

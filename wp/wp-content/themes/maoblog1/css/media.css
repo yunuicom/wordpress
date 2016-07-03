@@ -1,0 +1,15 @@
+@media (min-width: 1200px) {
+	#pagenav > li > a {font-size: 25px; line-height: 70px; width: 70px;}
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+	#pagenav > li > a {font-size: 25px; line-height: 70px; width: 70px;}
+}
+@media (min-width: 769px) and (max-width: 991px) {
+	#pagenav > li > a {font-size: 25px; line-height: 70px; width: 70px;}
+}
+@media (max-width: 768px) {
+	
+}
+@media (max-width: 480px) {
+	#pagenav > li > a {font-size: 14px; line-height: 30px; width: 30px;}
+}
